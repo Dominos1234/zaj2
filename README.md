@@ -1,3 +1,3 @@
 # zaj2
 Dominik Stachowiak
-fafdfdfd
+Nowa gałąź, nowy początek
