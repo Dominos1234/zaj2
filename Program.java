@@ -1,7 +1,6 @@
 public class Prime {
     public static void main(String[] args) {
         int num = 29;
-	int zmiana33;
         boolean flag = false;
         for(int i = 2; i <= num/2; ++i)
         {
@@ -12,11 +11,9 @@ public class Prime {
                 break;
             }
         }
-	// zmiana 13
         if (!flag)
             System.out.println(num + " is a prime number.");
         else
-	//zmiana23
             System.out.println(num + " is not a prime number.");
 	System.out.println("Dobra zmiana");
     }
